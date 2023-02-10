@@ -1,0 +1,42 @@
+p {
+    color: red;
+    width: 300px;
+}
+/**
+esto es un comentario dentro de un documento css
+*/
+
+section {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+
+
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    border: 1px solid black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+    color: green;
+}
+
+#mi_parrafo {
+    color: yellow;
+    font-size: 23px;
+    border: 1px solid orange;
+}
+
+.clase1 {
+    font-weight: bold;
+    color: lightskyblue;
+}
